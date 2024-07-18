@@ -1,13 +1,13 @@
 ## Olá! Eu sou Celso Gabriel Prado, bem vindo ao meu GitHub!
 <h5>Aqui vai uma pequena descrição da minha história até agora:</h5>
 <p>
-  Aos 15 anos me encontrei em uma encruzilhada, pensando com o que eu trabalharia, e mesmo sem saber o que era a programação realmente, me matriculei no curso de Técnico em Desenvolvimento de Sistemas, integrado ao ensino médio na Etec dr Demétrio Azevedo Júnior, e la descobri um novo mundo de possibilidades;
+  Aos 15 anos, me encontrei em uma encruzilhada, refletindo sobre minha futura carreira. Mesmo sem entender completamente o que era a programação, matriculei-me no curso Técnico em Desenvolvimento de Sistemas, integrado ao ensino médio na Etec Dr. Demétrio Azevedo Júnior, em Itapeva - SP. Lá, descobri um novo mundo de possibilidades.
 </p>
 <p>
-  E para ser sincero até hoje não sei com o que trabalhar, pois para mim a programação não é um trabalho, mas sim uma paixão, que adoro passar horas e horas fazendo minhas ideias tomarem vida da maneira mais otimizada e limpa possível;
+  Para ser sincero, até hoje não considero a programação um trabalho, mas sim uma paixão. Adoro passar horas transformando minhas ideias em realidade da maneira mais otimizada e limpa possível.
 </p>
 <p>
-  Atualmente estou cursando o segundo semestre do Bacharel em Ciência da Computação na UNICAMP, e buscando oportunidades de ingressar no mercado de trabalho.
+  Atualmente terminei o terceiro semestre do Bacharel em Ciência da Computação na UNICAMP, e estou buscando oportunidades de ingressar no mercado de trabalho.
 </p>
 <br>
 <div style="display: inline_block">
