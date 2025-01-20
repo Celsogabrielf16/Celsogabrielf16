@@ -7,7 +7,7 @@
   Para ser sincero, até hoje não considero a programação um trabalho, mas sim uma paixão. Adoro passar horas transformando minhas ideias em realidade da maneira mais otimizada e limpa possível.
 </p>
 <p>
-  Atualmente terminei o terceiro semestre do Bacharel em Ciência da Computação na UNICAMP, e estou buscando oportunidades de ingressar no mercado de trabalho.
+  Atualmente terminei o quarto semestre do Bacharel em Ciência da Computação na UNICAMP, e estou buscando oportunidades de ingressar no mercado de trabalho.
 </p>
 <br>
 <div style="display: inline_block">
