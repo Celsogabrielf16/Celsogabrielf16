@@ -1,13 +1,13 @@
-## Olá! Eu sou Celso Gabriel Prado, bem vindo ao meu GitHub!
-<h5>Aqui vai uma pequena descrição da minha história até agora:</h5>
+## Olá! Eu sou Celso Gabriel Prado, bem-vindo ao meu GitHub!
+<h5>Um pouco sobre minha trajetória e experiência atual:</h5>
 <p>
-  Aos 15 anos, me encontrei em uma encruzilhada, refletindo sobre minha futura carreira. Mesmo sem entender completamente o que era a programação, matriculei-me no curso Técnico em Desenvolvimento de Sistemas, integrado ao ensino médio na Etec Dr. Demétrio Azevedo Júnior, em Itapeva - SP. Lá, descobri um novo mundo de possibilidades.
+  Desde cedo, me interessei por tecnologia e desenvolvimento de software. Aos 15 anos, comecei o curso Técnico em Desenvolvimento de Sistemas na Etec Dr. Demétrio Azevedo Júnior, em Itapeva - SP, sem saber exatamente onde isso me levaria, mas descobrindo rapidamente uma paixão por transformar ideias em soluções eficientes e escaláveis.
 </p>
 <p>
-  Para ser sincero, até hoje não considero a programação um trabalho, mas sim uma paixão. Adoro passar horas transformando minhas ideias em realidade da maneira mais otimizada e limpa possível.
+  Hoje, sou estudante de Bacharelado em Ciência da Computação na UNICAMP e atuo como estagiário desenvolvedor no <strong>iFood</strong>, onde aplico e aprofundo meus conhecimentos em desenvolvimento full-stack, arquitetura de software e boas práticas de engenharia. Minha experiência envolve projetos em <strong>React, TypeScript, Java, Spring Boot, Node.js</strong> e integração com bancos de dados relacionais e NoSQL.
 </p>
 <p>
-  Atualmente terminei o quarto semestre do Bacharel em Ciência da Computação na UNICAMP, e estou buscando oportunidades de ingressar no mercado de trabalho.
+  Para mim, programação não é apenas trabalho — é uma paixão. Gosto de escrever código limpo, otimizado e escalável, sempre buscando impacto real e aprendizado contínuo. Estou constantemente explorando novas tecnologias, ferramentas de design de interfaces e desenvolvimento 3D, como Blender e React Three Fiber, para projetos que unem estética, funcionalidade e inovação.
 </p>
 <br>
 <div style="display: inline_block">
